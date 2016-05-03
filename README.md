@@ -5,7 +5,7 @@ Neste projeto resolvi conectar quatro bancos de dados tais como  Mysql, Oracle, 
 ### Autores.
 
  Jardel Cavalcante                                           
- <a href="mailto:jardelsim@hotmail.com">jardelsim@hotmail.com</a>
+ jardelsim@hotmail.com
  
 
 ### Sobre.
