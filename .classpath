@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="lib/mysql/mysql-connector-java-5.1.38-bin.jar"/>
+	<classpathentry kind="lib" path="lib/oracle/ojdbc5.jar"/>
+	<classpathentry kind="lib" path="lib/postgri/postgresql-9.4.1208.jar"/>
+	<classpathentry kind="lib" path="lib/sql server/sqljdbc42.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate/hibernate-commons-annotations-4.0.2.Final.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate/hibernate-core-4.2.8.Final.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate/hibernate-ehcache-4.2.8.Final.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate/hibernate-entitymanager-4.2.8.Final.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate/hibernate-envers-4.2.8.Final.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate/jboss-logging-3.1.0.GA.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate/jboss-transaction-api_1.1_spec-1.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate/javassist-3.18.1-GA.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate/ehcache-core-2.4.3.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
